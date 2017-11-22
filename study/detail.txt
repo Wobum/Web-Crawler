@@ -1,0 +1,6 @@
+r.request.headers
+r = requsets.get(url,headers = {'user_agent':'Mozilla/5.0'£©
+r.status_code
+r.request.url
+r.raise_for_status
+Ctrl + A and alt + 6
